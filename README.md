@@ -1,4 +1,4 @@
-#odin-linked-list
+# odin-linked-list
 
 Proj link: https://www.theodinproject.com/lessons/ruby-linked-lists
 
